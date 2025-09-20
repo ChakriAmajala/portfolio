@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKERHUB_USER = 'chakriamajaladocker'
-        IMAGE_NAME = 'portfolio
+        IMAGE_NAME = 'portfolio'
         HOST_PORT = "8009"
         CONTAINER_PORT = "80"
     }
